@@ -1,0 +1,30 @@
+C:\Users\Ali\encryption\bin\Debug\net6.0\encryption.exe
+C:\Users\Ali\encryption\bin\Debug\net6.0\encryption.deps.json
+C:\Users\Ali\encryption\bin\Debug\net6.0\encryption.runtimeconfig.json
+C:\Users\Ali\encryption\bin\Debug\net6.0\encryption.dll
+C:\Users\Ali\encryption\bin\Debug\net6.0\encryption.pdb
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.csproj.AssemblyReference.cache
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.AssemblyInfoInputs.cache
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.AssemblyInfo.cs
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.csproj.CoreCompileInputs.cache
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.dll
+C:\Users\Ali\encryption\obj\Debug\net6.0\refint\encryption.dll
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.pdb
+C:\Users\Ali\encryption\obj\Debug\net6.0\encryption.genruntimeconfig.cache
+C:\Users\Ali\encryption\obj\Debug\net6.0\ref\encryption.dll
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\encryption.exe
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\encryption.deps.json
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\encryption.runtimeconfig.json
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\encryption.dll
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\encryption.pdb
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.csproj.AssemblyReference.cache
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.AssemblyInfoInputs.cache
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.AssemblyInfo.cs
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.dll
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\refint\encryption.dll
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.pdb
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\encryption.genruntimeconfig.cache
+C:\Users\Ali\Challenges\atbash encryption & decryption\obj\Debug\net6.0\ref\encryption.dll

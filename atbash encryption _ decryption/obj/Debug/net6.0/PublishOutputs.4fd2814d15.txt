@@ -1,0 +1,5 @@
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\publish\encryption.exe
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\publish\encryption.dll
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\publish\encryption.deps.json
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\publish\encryption.runtimeconfig.json
+C:\Users\Ali\Challenges\atbash encryption & decryption\bin\Debug\net6.0\publish\encryption.pdb
